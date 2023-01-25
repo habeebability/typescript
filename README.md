@@ -6,8 +6,8 @@ finance logger project with typescript
 
 # convert typscript file to javascript using
 
-## tsc typescript.ts
+tsc typescript.ts
 
 # watch changes and recompile to typescript
 
-## typescript.ts -w
+typescript.ts -w
